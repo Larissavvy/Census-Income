@@ -23,4 +23,4 @@ To Predict: If the individuals income is greater than 50k or lesser than 50k: a 
 |     13    | native.country |   object  |   Discrete  |   Native country of person   |
 |     14    |     income     |   object  |   Discrete  |   Income category of person  |
 
-Conclusion: I have used multiple Classification Models such as XGBoost, Logistic Regression, SVM and Hypertuned the parameter to give  better accuracy..
+Conclusion: I have used multiple Classification Models such as XGBoost, Logistic Regression, SVM and Hypertuned the parameters to give  better accuracy..
